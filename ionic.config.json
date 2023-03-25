@@ -1,0 +1,8 @@
+{
+  "name": "Batista",
+  "integrations": {
+    "cordova": {},
+    "capacitor": {}
+  },
+  "type": "angular"
+}
